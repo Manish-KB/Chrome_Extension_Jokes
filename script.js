@@ -11,7 +11,7 @@ fetch("https://icanhazdadjoke.com/slack").then(data =>
         myButton.style.visibility = "visible";
     });
 
-// const myButton = document.getElementById("myButton");
+
 
 
 function changeJoke() {
