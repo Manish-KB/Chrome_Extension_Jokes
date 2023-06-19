@@ -43,6 +43,7 @@ html,body{
 	text-decoration: none;
 	border: 0;
 	transition: 0.2s ease-in;
+	visibility: hidden;
   }
   
   .btn:hover {
