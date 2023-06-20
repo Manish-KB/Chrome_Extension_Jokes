@@ -1,10 +1,11 @@
 {
     "name": "Jokes",
     "version": "0.0.1",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "browser_action": {
         "default_popup": "popup.html",
-        "default_icon": "logo.png"
+        "default_icon": "logo.png",
+        "author":"Manish"
     },
     "permissions": [
         "activeTab"
