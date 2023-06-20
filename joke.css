@@ -38,16 +38,16 @@ html,body{
 	-moz-border-radius: 28;
 	border-radius: 28px;
 	color: #ffffff;
-	font-size: 10px;
-	padding: 10px 20px 10px 20px;
+	font-size: 13px;
+	padding: 10px 10px 10px 10px;
 	text-decoration: none;
 	border: 0;
-	transition: 0.2s ease-in;
+	/* transition: 0.2s ease-in; */
 	visibility: hidden;
   }
   
   .btn:hover {
-	background: #474747;
+	background: #485563;
 	text-decoration: none;
 	cursor: pointer;
   }
